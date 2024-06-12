@@ -15,7 +15,6 @@
    - 기업은 감독기관이 제시한 Taxonomy내의 약속된 표준이름을 사용하여 작성
 
    ![image](https://github.com/gijeogiya/4CPA/assets/97646078/0003c64e-e559-44e6-8a3c-26e18f3b331d)
-![image](https://github.com/gijeogiya/4CPA/assets/97646078/0003c64e-e559-44e6-8a3c-26e18f3b331d)
 
 
 2. 대한민국에서의 XBRL **정책/시장 현황**
@@ -23,7 +22,6 @@
    - **2023년 하반기**부터 금융당국이 **자산총액 2조 원 이상 상장회사**를 시작으로 순차적으로 주석을 포함한 재무제표 전반에 대한 **XBRL 공시 의무화**를 추진함에 따라 금융•회계업계는 관련 전문가 자문 서비스 수요가 증가할 것으로 전망
 
    ![image](https://github.com/gijeogiya/4CPA/assets/97646078/79b17c32-32f9-4643-81ce-3678a68022c6)
-![image](https://github.com/gijeogiya/4CPA/assets/97646078/79b17c32-32f9-4643-81ce-3678a68022c6)
 
 
 3. 대한민국에서의 XBRL **고객 동향**
@@ -32,7 +30,6 @@
    - 롯데지주, 롯데이노베이트를 포함한 대부분의 롯데계열 상장사 또한 XBRL 공시 의무 대상으로 지난 2023년 하반기부터 XBRL을 활용하여 공시
 
    ![image](https://github.com/gijeogiya/4CPA/assets/97646078/69cf852f-b9e4-407e-a999-f6d5b6f4fd0f)
-![image](https://github.com/gijeogiya/4CPA/assets/97646078/69cf852f-b9e4-407e-a999-f6d5b6f4fd0f)
 
 
    
@@ -51,7 +48,6 @@
    - OUTPUT: 기업의 공시정보(Fact)에 표준이름(Tag)가 매핑된 XBRL 파일
 
    ![image](https://github.com/gijeogiya/4CPA/assets/97646078/0003c64e-e559-44e6-8a3c-26e18f3b331d)
-![image](https://github.com/gijeogiya/4CPA/assets/97646078/0003c64e-e559-44e6-8a3c-26e18f3b331d)
 
 2. AI 학습 방안
 
