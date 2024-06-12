@@ -55,10 +55,11 @@
    - 대한민국 Open Dart(https://opendart.fss.or.kr/)에 공시된 2조원 이상 자산 기업이 공시한 공시정보(Fact)와 XBRL 데이터(Fact, Tag)를 활용
    - 미국 전자공시시스템(https://www.sec.gov/)에 공시된 공시정보(Fact)와 XBRL 데이터(Fact, Tag)를 활용
    - 추후 롯데 고객사 XBRL 작성에 활용된 Rough한 공시정보(Fact)와 결과물인 XBRL 데이터(Fact, Tag)를 활용
-  ![image](https://github.com/gijeogiya/4CPA/assets/97646078/25b74cdc-67f3-4dbe-9bed-24220d8f90dc)
+  
+   ![image](https://github.com/gijeogiya/4CPA/assets/97646078/25b74cdc-67f3-4dbe-9bed-24220d8f90dc)
 
 
-3. 생성기 검증 방안
+4. 생성기 검증 방안
 
    - Dart 제공 뷰어를 활용한 적합도 판정 (현재 %단위로 제공 중)
    - 실제 회계사(전문가)가 작성한 XBRL 결과물과의 비교/검증
