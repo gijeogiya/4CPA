@@ -55,6 +55,8 @@
    - 대한민국 Open Dart(https://opendart.fss.or.kr/)에 공시된 2조원 이상 자산 기업이 공시한 공시정보(Fact)와 XBRL 데이터(Fact, Tag)를 활용
    - 미국 전자공시시스템(https://www.sec.gov/)에 공시된 공시정보(Fact)와 XBRL 데이터(Fact, Tag)를 활용
    - 추후 롯데 고객사 XBRL 작성에 활용된 Rough한 공시정보(Fact)와 결과물인 XBRL 데이터(Fact, Tag)를 활용
+  ![image](https://github.com/gijeogiya/4CPA/assets/97646078/25b74cdc-67f3-4dbe-9bed-24220d8f90dc)
+
 
 3. 생성기 검증 방안
 
