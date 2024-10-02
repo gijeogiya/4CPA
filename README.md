@@ -30,7 +30,7 @@
    ![image](https://github.com/gijeogiya/4CPA/assets/97646078/69cf852f-b9e4-407e-a999-f6d5b6f4fd0f)
 
 
-   
+
 
 4. 사업 상황
    - 금융감독원이 주도하여 XBRL 생성 툴을 배포
